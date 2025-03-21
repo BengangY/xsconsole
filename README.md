@@ -76,3 +76,4 @@ Join the XSConsole community by creating issues in the repository to report bugs
   - `comprehension-escape`
   - `dict-keys-not-iterating`
   - `old-division`
+
